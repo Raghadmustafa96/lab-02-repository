@@ -1,0 +1,21 @@
+header{
+    background-color: black;
+    color: aliceblue;
+    padding: 50px;
+    font-size: 40px;
+    }
+    
+    
+    
+    select {
+        border: 1px solid black;
+        height: 30px;
+        width: 250px; 
+        text-align: center;
+        border-radius: 5px;
+        display: block;
+        margin: 0 auto;
+        margin-top: 15px;
+      }
+    
+    

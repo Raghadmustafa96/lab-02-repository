@@ -1,0 +1,38 @@
+option {
+    text-align: left;
+  }
+ 
+  #photo-template{
+      width: 320px;
+      border: 1px black solid;
+      display: inline-block;
+      margin: 20px;
+  }
+
+  #photo-template img{
+      width: 200px;
+      height: 200px;
+      padding: 50px;
+  }
+
+  
+  #photo-template p{
+    text-align: center;
+}
+
+  #photo-template h2{
+    text-align: center;
+    margin-top: 20px;
+}
+
+div:first-child img { 
+    display:none; 
+}
+
+div:first-child {
+    visibility: hidden;  
+}
+
+header h1{
+    text-align: center;
+}
