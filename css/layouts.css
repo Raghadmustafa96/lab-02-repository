@@ -25,14 +25,12 @@ option {
     margin-top: 20px;
 }
 
-div:first-child img { 
-    display:none; 
-}
+.photo-class{ 
+    display: none !important;}
 
-div:first-child {
-    visibility: hidden;  
-}
+
 
 header h1{
     text-align: center;
 }
+
