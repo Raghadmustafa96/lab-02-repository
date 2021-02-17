@@ -10,8 +10,8 @@ option {
   }
 
   #photo-template img{
-      width: 200px;
-      height: 200px;
+      width: 300px;
+      height: 300px;
       padding: 50px;
   }
 
@@ -24,12 +24,6 @@ option {
     text-align: center;
     margin-top: 20px;
 }
-
-.photo-class{ 
-    display: none !important;
-}
-
-
 
 header h1{
     text-align: center;
